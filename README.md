@@ -11,6 +11,5 @@ The project consists of the following subprojects:
  - Career
  
  # Food
- - Case #1
  
  Jamy Wilder want to know, what he should eat today. He sign in to the app. Fill a profile, then go to dashboard. On the dashboard Jamy can see calories today status, can add food to database, can choose what he ate and see the own food history.
